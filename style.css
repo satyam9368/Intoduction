@@ -1,0 +1,159 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+.home{
+    width: 100%;
+    height: 714px;
+    background-image: url(me\ 1.png);
+    background-position: center;
+    background-position: bottom;
+    text-align: center;
+    }
+     .heading{
+         padding-top: 150px;
+   }
+   .heading h1{
+    color: white;
+    font-size: 4rem;
+    font-family: 'Dancing Script', cursive;
+    margin-bottom: 24px;
+
+   }
+   .heading p{
+    color: #e6ebef;
+    font-size: 2rem;
+    font-family: 'Hedvig Letters Serif', serif;
+    text-decoration: underline;
+    
+   }
+   .hero{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    height: 580px;
+   }
+   .hero hr{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+     margin: 56px auto; 
+   
+   }
+   .hero-img img{
+    margin-top: 72px;
+   }
+   
+   .hero-hello h2{
+    font-size: 2.4rem;
+    font-family: 'Hedvig Letters Serif', serif;
+    color: #1AACAC;
+    margin-bottom: 10px;
+
+   }
+   .hero-content{
+    width: 30%;
+    margin: auto;
+    margin-top: 0px;
+    font-size: 1.2rem;
+  }
+  .skill{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-between;
+    height: 840px;
+    margin-bottom: 62px;
+    
+  }
+  .skill-head h2{
+    font-size: 2.4rem;
+    font-family: 'Hedvig Letters Serif', serif;
+    color: #1AACAC;
+    
+    margin-bottom: 64px;
+  }
+  .skill-hc{
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  margin: auto;
+  justify-content: space-between;
+  }
+  .skill-hc p{
+    width: 60%;
+    font-size: 1.2rem;
+    text-align: start;
+    line-height: 1.8rem;
+    }
+
+  .skill-game{
+    display: flex;
+  flex-direction: row;
+  width: 50%;
+  margin: auto;
+  justify-content: space-between;
+  }  
+  .skill-game p{
+    width: 60%;
+    font-size: 1.2rem;
+    text-align: start;
+    line-height: 1.8rem;
+  }
+  .skill-cricket{
+    display: flex;
+  flex-direction: row;
+  width: 50%;
+  margin: auto;
+  justify-content: space-between; 
+  }
+  .skill-cricket p{
+    width: 60%;
+    font-size: 1.2rem;
+    text-align: start;
+    line-height: 1.8rem;
+  }
+
+  .network{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #C5FFF8;
+    height: 240px;
+  }
+  .touch h2{
+    font-size: 2.4rem;
+    font-family: 'Hedvig Letters Serif', serif;
+    color: #1AACAC;
+  }
+  .social{
+    display: flex;
+    flex-direction: row;
+    width: 24%;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    margin-bottom: 30px;
+  }
+  .social ul{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    width: 60%;
+    padding: 0px;
+  }
+  .social ul a{
+    font-size: 1.2rem;
+    text-decoration: none;
+    
+    color: #0fb2b2;
+  }
+  .social ul a:hover{
+    color: #1AACAC;
+    text-decoration: underline;
+  }
+ 
+
+
